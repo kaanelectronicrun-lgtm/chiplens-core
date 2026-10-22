@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-22",
+  "platform": "Windows",
+  "python": "3.12.10",
+  "numpy": "2.5.4",
+  "core_tests_passed": 19,
+  "core_tests_failed": 0,
+  "examples": [
+    {
+      "example": "capacitor",
+      "points": 401,
+      "netlist_max_pointwise_relative_error": 1.1794217800028273e-06
+    },
+    {
+      "example": "inductor",
+      "points": 401,
+      "netlist_max_pointwise_relative_error": 2.562242903764516e-06
+    }
+  ],
+  "inconsistent_graphfit_export_rejected": true,
+  "cloud_ci_run": false
+}

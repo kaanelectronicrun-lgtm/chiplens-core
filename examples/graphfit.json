@@ -1,0 +1,13 @@
+{
+  "kind": "capacitor",
+  "part_number": "SYNTHETIC_GRAPHFIT",
+  "capacitance_f": 1e-07,
+  "esr_ohm": 0.05,
+  "esl_h": 1e-09,
+  "srf_hz": 15915494.309189534,
+  "graphs": {
+    "impedance": "graphs/synthetic_impedance.csv"
+  },
+  "source": 6,
+  "notes": "Synthetic impedance magnitudes from a known RLC fixture; no manufacturer data."
+}

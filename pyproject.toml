@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chiplens-core"
+version = "0.1.0"
+description = "Estimated capacitor and inductor SPICE/Touchstone models with independent netlist checks"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+authors = [{name = "Kaan AKCAN"}]
+
+[project.scripts]
+chiplens-core = "s2p_tool.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

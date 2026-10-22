@@ -1,0 +1,10 @@
+{
+  "kind": "inductor",
+  "part_number": "SYNTHETIC_10NH",
+  "inductance_h": 1e-8,
+  "dcr_ohm": 0.18,
+  "cp_f": 2e-13,
+  "rp_ohm": 10000,
+  "source": 6,
+  "notes": "Synthetic inductor with shunt capacitance and loss; not measured."
+}

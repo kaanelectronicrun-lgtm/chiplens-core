@@ -1,0 +1,14 @@
+{
+  "kind": "inductor",
+  "part_number": "SYNTHETIC_INDUCTOR",
+  "inductance_h": 1e-08,
+  "dcr_ohm": 0.18,
+  "q_factor": 38,
+  "q_ref_hz": 500000000.0,
+  "srf_hz": 3600000000.0,
+  "irms_a": 0.7,
+  "isat_a": 1.0,
+  "core_material": "Ferrite (wire-wound)",
+  "source": 6,
+  "notes": "Synthetic demonstration parameters, not a vendor-qualified part."
+}

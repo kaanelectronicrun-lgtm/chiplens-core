@@ -1,0 +1,121 @@
+{
+  "source_repository": "https://github.com/kaanelectronicrun-lgtm/s2p-model-generator",
+  "source_commit": "e5a96ac",
+  "date": "2026-10-22",
+  "license_status": "MIT; owner approved public core publication on 2026-10-22",
+  "files": [
+    {
+      "file": "src/s2p_tool/derate.py",
+      "source_sha256": "8e3fff7b6c763149f7294cc65d30759f1bf08444b100a0923eddbad4376d5db9",
+      "note": "copied without functional edits",
+      "export_sha256": "8e3fff7b6c763149f7294cc65d30759f1bf08444b100a0923eddbad4376d5db9"
+    },
+    {
+      "file": "src/s2p_tool/graphs.py",
+      "source_sha256": "86a10c4e4f66a6f7bbdfefacef541228586f5b79722538e95c345e24b10563f3",
+      "note": "copied without functional edits",
+      "export_sha256": "86a10c4e4f66a6f7bbdfefacef541228586f5b79722538e95c345e24b10563f3"
+    },
+    {
+      "file": "src/s2p_tool/impedance.py",
+      "source_sha256": "1ac64605ef8f6f75061c5e0b8e28c9f21ef0aba5466c656b1777d29b8c7d5fb3",
+      "note": "copied without functional edits",
+      "export_sha256": "1ac64605ef8f6f75061c5e0b8e28c9f21ef0aba5466c656b1777d29b8c7d5fb3"
+    },
+    {
+      "file": "src/s2p_tool/importer.py",
+      "source_sha256": "eb3cc20d1a3269ce2b35a5e4b0f3faf2884546f8e233e008830122c9325312b5",
+      "note": "copied without functional edits",
+      "export_sha256": "eb3cc20d1a3269ce2b35a5e4b0f3faf2884546f8e233e008830122c9325312b5"
+    },
+    {
+      "file": "src/s2p_tool/report.py",
+      "source_sha256": "66c01b59f8575758e889811f3b5bc6ad26de67aa44910f82af1f4c9be656dbe4",
+      "note": "inherited report with heuristic source scores explicitly labelled as uncalibrated",
+      "export_sha256": "ea18954e5d40d93475a360baa75ca68b191c49880ac9a9517e03767fe20a2d16"
+    },
+    {
+      "file": "src/s2p_tool/sparams.py",
+      "source_sha256": "a28b16a58508f60991b0ad0755d8922c48b439777ed8be3760c255a7b97668c2",
+      "note": "copied without functional edits",
+      "export_sha256": "a28b16a58508f60991b0ad0755d8922c48b439777ed8be3760c255a7b97668c2"
+    },
+    {
+      "file": "src/s2p_tool/spice.py",
+      "source_sha256": "42cbd45b0dbab48078b30337c0d9f0cc04e2029c41403552f1abb864bc0b9f6e",
+      "note": "copied without functional edits",
+      "export_sha256": "42cbd45b0dbab48078b30337c0d9f0cc04e2029c41403552f1abb864bc0b9f6e"
+    },
+    {
+      "file": "src/s2p_tool/validation.py",
+      "source_sha256": "345cc7093f2e71fa43e80978cc07ab5d80ffbe0f786f334c9139e5cfbbbe88af",
+      "note": "validation.py includes local full-S-matrix passivity correction",
+      "export_sha256": "345cc7093f2e71fa43e80978cc07ab5d80ffbe0f786f334c9139e5cfbbbe88af"
+    },
+    {
+      "file": "src/s2p_tool/models.py",
+      "source_sha256": "cdbd634f5b9bc726a8ea27d3e0d28ca0975d354eafff33ca46a532a1c0664128",
+      "note": "copied without functional edits",
+      "export_sha256": "cdbd634f5b9bc726a8ea27d3e0d28ca0975d354eafff33ca46a532a1c0664128"
+    },
+    {
+      "file": "src/s2p_tool/parasitics.py",
+      "source_sha256": "51232a9f9a34f96f26dbd2c8978e29699c522bd31913f2e0fef1e0e41ce221f0",
+      "note": "copied without functional edits",
+      "export_sha256": "51232a9f9a34f96f26dbd2c8978e29699c522bd31913f2e0fef1e0e41ce221f0"
+    },
+    {
+      "file": "src/s2p_tool/geometry.py",
+      "source_sha256": "afe322de048b916b716f268857c57b85c8a6360e03ac75fdda3bf4a99ae69fdb",
+      "note": "copied without functional edits",
+      "export_sha256": "afe322de048b916b716f268857c57b85c8a6360e03ac75fdda3bf4a99ae69fdb"
+    },
+    {
+      "file": "src/s2p_tool/synth.py",
+      "source_sha256": "caf1c46a92bc7250e12bb784aa8cd02572dd25ef53475cb23246e04dff5c158d",
+      "note": "source implementation retained; misleading equality claim corrected in documentation",
+      "export_sha256": "5cf3b9feb9f0f1a2101555004593766449c3a8621fe6f0884e4dab374102e339"
+    },
+    {
+      "file": "src/s2p_tool/vectorfit.py",
+      "source_sha256": "f0bf7615eee3ec27d2c87a9cddc1c6164427332e00da98390b59bd1e7c67470e",
+      "note": "copied without functional edits",
+      "export_sha256": "f0bf7615eee3ec27d2c87a9cddc1c6164427332e00da98390b59bd1e7c67470e"
+    },
+    {
+      "file": "src/s2p_tool/spicesim.py",
+      "source_sha256": "527915f6671e709f2003111a1992721b8dd5e22735c862bf53b1b6004c991d5c",
+      "note": "copied without functional edits",
+      "export_sha256": "527915f6671e709f2003111a1992721b8dd5e22735c862bf53b1b6004c991d5c"
+    },
+    {
+      "file": "src/s2p_tool/pipeline.py",
+      "source_sha256": "84e527c261cc42b36fdb8d319f47502140b205dc3946355683cc3dee2fa9acc3",
+      "retained_functions": [
+        "_apply_conditions",
+        "_graph_fit",
+        "_run",
+        "_safe",
+        "_write_zf_csv",
+        "load_component",
+        "process"
+      ],
+      "note": "PDF, Touchstone import, scikit-rf and external-simulator workflows excluded from this export; new sampled circuit-consistency guard refuses materially inconsistent graph exports",
+      "export_sha256": "afbd1d24c8fc98851f6d3655b667d2e831303ae8c9e1ce01a7eb3b0a149df1b6"
+    }
+  ],
+  "retained_upstream_tests": [
+    "test_recovers_known_rational",
+    "test_noisy_resonance_fit_under_2pct",
+    "test_synthesis_matches_fit_and_is_passive",
+    "test_spice_roundtrip_netlist_realises_model",
+    "test_series_shunt_closed_form",
+    "test_series_shunt_srf_signature",
+    "test_derate_class_and_dc_bias",
+    "test_derate_vendor_curve_is_exact",
+    "test_dc_bias_shifts_srf_up",
+    "test_curve_csv_loading_and_json_path"
+  ],
+  "retained_test_adjustments": "file reads/writes use pathlib to close handles; expectations retained",
+  "export_hash_mode": "SHA256 of UTF-8 text with LF newlines"
+}

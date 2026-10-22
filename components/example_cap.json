@@ -1,0 +1,13 @@
+{
+  "kind": "capacitor",
+  "part_number": "SYNTHETIC_CAPACITOR",
+  "capacitance_f": 1e-07,
+  "voltage_rating_v": 16,
+  "esr_ohm": 0.05,
+  "esr_ref_hz": 1000000.0,
+  "dissipation_factor": 0.025,
+  "srf_hz": 16000000.0,
+  "dielectric": "X7R",
+  "source": 6,
+  "notes": "Synthetic demonstration parameters, not a vendor-qualified part."
+}

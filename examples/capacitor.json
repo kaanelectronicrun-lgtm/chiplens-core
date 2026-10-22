@@ -1,0 +1,9 @@
+{
+  "kind": "capacitor",
+  "part_number": "SYNTHETIC_100NF",
+  "capacitance_f": 1e-7,
+  "esr_ohm": 0.05,
+  "esl_h": 1e-9,
+  "source": 6,
+  "notes": "Synthetic RLC fixture; not measured or vendor-qualified."
+}
