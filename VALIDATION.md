@@ -37,8 +37,15 @@ it; the full S-matrix check correctly rejects it.
 
 The tests include a hand-derived RLC reference and an independent nodal solve
 of exported netlist text. This is software validation on synthetic data, not
-laboratory or manufacturer validation. GitHub Actions is configured but has
-not run. Other operating systems and Python versions are not claimed tested.
+laboratory or manufacturer validation.
+
+## GitHub Actions verification
+
+[Run 39826023309](https://github.com/kaanelectronicrun-lgtm/chiplens-core/actions/runs/39826023309)
+passed all four jobs for source commit `832ccda`: Windows/Linux with Python
+3.12 and 3.13. Each job installed the package, ran the 19-test suite, and ran
+the capacitor and shunt-inductor CLI examples. These results extend the local
+environment evidence above; they do not establish physical model accuracy.
 
 The full desktop project was also rechecked after the shared passivity fix:
 31 checks passed and one optional scikit-rf passive-fit regression still failed.

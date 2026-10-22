@@ -1,5 +1,7 @@
 # ChipLens Core
 
+[![Core numerical checks](https://github.com/kaanelectronicrun-lgtm/chiplens-core/actions/workflows/tests.yml/badge.svg)](https://github.com/kaanelectronicrun-lgtm/chiplens-core/actions/workflows/tests.yml)
+
 Generate **estimated capacitor and inductor models** from JSON parameters or
 digitized CSV curves. Export SPICE RLC subcircuits, two-port Touchstone `.s2p`,
 impedance CSV, and a Markdown engineering report. NumPy is the only runtime
@@ -66,9 +68,9 @@ Kaan AKCAN maintains ChipLens. `PROVENANCE.json` records the source repository,
 baseline commit, file hashes, extracted functions, and retained upstream tests.
 The clean Windows check ran **19 tests, all passed**. See
 [CONTRIBUTING.md](CONTRIBUTING.md) for bug reports and
-[VALIDATION.md](VALIDATION.md) for the local check record. GitHub Actions is
-configured for Windows/Linux and Python 3.12/3.13; cloud results are not claimed
-until the workflow has actually run.
+[VALIDATION.md](VALIDATION.md) for the check record. All four GitHub Actions
+jobs passed on Windows/Linux with Python 3.12/3.13:
+[verified run](https://github.com/kaanelectronicrun-lgtm/chiplens-core/actions/runs/39826023309).
 
 ## License
 

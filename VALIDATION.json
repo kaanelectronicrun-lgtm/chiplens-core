@@ -18,5 +18,16 @@
     }
   ],
   "inconsistent_graphfit_export_rejected": true,
-  "cloud_ci_run": false
+  "cloud_ci_run": true,
+  "cloud_ci": {
+    "url": "https://github.com/kaanelectronicrun-lgtm/chiplens-core/actions/runs/39826023309",
+    "commit": "832ccda",
+    "conclusion": "success",
+    "jobs": [
+      "Windows Python 3.12",
+      "Windows Python 3.13",
+      "Linux Python 3.12",
+      "Linux Python 3.13"
+    ]
+  }
 }
