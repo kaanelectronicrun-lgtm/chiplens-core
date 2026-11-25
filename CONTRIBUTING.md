@@ -15,8 +15,10 @@ Useful work includes independent model comparisons, export round-trip
 regressions, input validation, and documenting numerical limits. Do not
 contribute confidential designs or vendor assets without redistribution rights.
 Do not describe estimated models as measured data or validation checks as
-hardware acceptance. Contributions to this core package are submitted under
-the repository's MIT license.
+hardware acceptance. The former blanket MIT policy for new code submissions no longer applies.
+Please open an issue before proposing code so permissions can be agreed
+explicitly. Existing contributions and their previously granted licenses are
+unchanged; see [LICENSE](LICENSE).
 
 Planned maintenance priorities are stronger model-input validation,
 frequency-qualified graph-fit errors, and reproducible cross-platform checks.

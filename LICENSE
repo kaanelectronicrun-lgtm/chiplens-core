@@ -1,21 +1,44 @@
-MIT License
+Proprietary Notice — No New License Granted
 
-Copyright (c) 2026 Kaan AKCAN
+Copyright (c) 2026 Kaan AKCAN. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Except for rights provided by applicable law, the hosting platform's applicable
+terms, or an existing license grant, no permission is granted to use, reproduce,
+modify, distribute, sublicense, sell, or otherwise exploit original software or
+documentation authored by Kaan AKCAN in this repository without prior written
+permission from the copyright holder. Public visibility does not grant those
+permissions.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Prior license grants are preserved
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This notice does not revoke, replace, or restrict permissions already granted
+under the MIT License or any other license. Versions and portions previously
+published under such a license remain available under that grant, including its
+conditions and required notices. This notice applies only to rights not already
+granted, including new original material first published under this notice.
+Do not interpret it as withdrawing the MIT grant for previously published
+ChipLens Core code.
+
+Third-party materials
+
+Third-party code, dependencies, documentation, data, and assets retain their own
+copyright notices and licenses. This notice neither relicenses those materials
+nor overrides their terms. No ownership of third-party material is claimed.
+
+GitHub access
+
+The limited rights to view and fork a public repository under GitHub's applicable
+Terms of Service are not restricted by this notice. Such platform access does
+not itself grant additional permission to exploit the software.
+
+No warranty
+
+TO THE EXTENT PERMITTED BY LAW, THE MATERIAL IS PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON INFRINGEMENT. THE COPYRIGHT HOLDER SHALL
+NOT BE LIABLE FOR CLAIMS OR DAMAGES ARISING FROM THE MATERIAL OR ITS USE.
+
+For permission or licensing inquiries, contact Kaan AKCAN through the repository
+owner's GitHub account: https://github.com/kaanelectronicrun-lgtm
+
+Notice added: 2026-11-26.

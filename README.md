@@ -74,6 +74,13 @@ jobs passed on Windows/Linux with Python 3.12/3.13:
 
 ## License
 
-This core package is available under the [MIT License](LICENSE).
-Desktop/PDF code and its dependencies are outside this license grant.
+Previously published MIT versions and portions remain available under their
+[existing MIT grant](https://github.com/kaanelectronicrun-lgtm/chiplens-core/blob/e2b9734a8d973281c66a22a5c98bdef718edac71/LICENSE); that permission is not revoked.
+
+For new original material not covered by an existing grant, all rights are
+reserved and prior written permission is required. Public visibility is not an
+open-source license for those changes. See [LICENSE](LICENSE) for scope and
+exceptions.
+
+Desktop/PDF code and its dependencies are outside the core's historical MIT grant.
 NumPy retains its own BSD license. The package has not been published to PyPI.
